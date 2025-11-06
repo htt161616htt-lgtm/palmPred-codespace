@@ -1,2 +1,1 @@
-# palmPred-codespace
-PalmPred Linux Codespaces environment
+.devcontainer/devcontainer.json
